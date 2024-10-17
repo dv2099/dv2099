@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a final year CSE student at SRMIST, exploring different domains of tech and falling in love with them as I go. 
+
+My fields of work primarily include Data Science and Web development. :D
+
+Find more about me here: https://www.linkedin.com/in/devansh-multani-a35863221/
+(Let's connect while you're at it.)
 <!--
 **dv2099/dv2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
